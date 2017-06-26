@@ -1,6 +1,6 @@
 ## React Todo Application
 
-A simple Todo application developed using React.
+A simple Todo application developed using React.  
 This app was developed for learning purposes to become famliar with React, Redux, Webpack, and Firebase.
 
 [Link](dry-wave-16570.herokuapp.com)
